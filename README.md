@@ -1,2 +1,7 @@
 # Sistemas de Informação
-SI-2B
+2º Semestre
+
+<h3> Membros </h3>
+- Nicholas Ferreira <br>
+- Fernando Franco <br>
+- Leonardo Ferreira <br>
