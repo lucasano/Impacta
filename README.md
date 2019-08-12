@@ -5,3 +5,4 @@
 - Nicholas Ferreira <br>
 - Fernando Franco <br>
 - Leonardo Ferreira <br>
+- Gabriel Sati <br>
