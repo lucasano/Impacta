@@ -6,3 +6,4 @@
 - Fernando Franco <br>
 - Leonardo Ferreira <br>
 - Gabriel Sarti <br>
+- Lucas Ano <br>
