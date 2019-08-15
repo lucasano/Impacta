@@ -1,0 +1,3 @@
+- Foda que ela é linda
+- Dias de Luta, Dias de Glória
+- Toxicity
