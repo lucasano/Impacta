@@ -1,0 +1,4 @@
+- Ariana Grande
+- Simone & Simaria
+- Katy Perry
+- Snob Dog
