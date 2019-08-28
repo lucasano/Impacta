@@ -1,4 +1,2 @@
-
-
 def true():
     return True
